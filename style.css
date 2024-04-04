@@ -1,0 +1,27 @@
+body{
+   
+    background-color: gray;
+    margin: 15px;
+    
+
+}
+.pic{
+    position: relative;
+left: 50px;
+}
+ 
+.container{
+    background-color:skyblue;
+    height:100%;
+    width: 42%;
+    padding-bottom: 50%;
+    padding-left: 15px;
+    padding-top: 20px;
+
+
+}
+.header{
+    display: flex;
+    background: white;
+    gap: 30px;
+}
